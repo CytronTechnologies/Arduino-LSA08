@@ -15,4 +15,6 @@ Tutorial for analog mode at http://tutorial.cytron.com.my/2015/07/27/line-follow
 
 Tutorial for serial mode at http://tutorial.cytron.com.my/2015/07/27/line-following-robot-using-lsa08-in-serial-mode-with-digital-output/
 
+Tutorial for PIC control at http://tutorial.cytron.com.my/2015/07/28/line-following-robot-using-lsa08-in-serial-mode-with-pid-controller/
+
 If you have any question, feel free to ask in our technical forum at http://forum.cytron.com.my/
